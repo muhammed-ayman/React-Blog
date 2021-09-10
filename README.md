@@ -29,4 +29,4 @@ npx json-server --watch data/db.json --port 8000
 
 ## License
 
-Released under the MIT License as shown [here](https://github.com/muhammed-ayman/react-blog-web-app/blob/main/LICENSE)
+Released under the MIT License as shown [here](https://github.com/muhammed-ayman/react-blog-web-app/blob/master/LICENSE)
