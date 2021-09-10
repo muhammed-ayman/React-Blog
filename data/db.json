@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Improving computer vision for AI",
+      "body": "Led by Sumit Jha,professor in the Department of Computer Science at UTSA, the team has changed the conventional approach employed in explaining machine learning decisions that relies on a single injection of noise into the input layer of a neural network.",
+      "author": "University of Texas at San Antonio",
+      "id": 1
+    },
+    {
+      "title": "360-degree transparency for construction sites made simple",
+      "body": "MIT spinoff OpenSpace invented automated 360-degree video jobsite capture and mapping.",
+      "author": "Daniel de Wolff",
+      "id": 3
+    }
+  ]
+}
